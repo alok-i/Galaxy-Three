@@ -1,4 +1,4 @@
-# Three.js Journey
+# GALAXY in 3D
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
